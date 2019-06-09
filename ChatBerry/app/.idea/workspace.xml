@@ -2,90 +2,184 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7399aeec-fcd4-46cd-8f81-c34b66e239b2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_core_common_1_1_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_core_runtime_1_1_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_common_1_1_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_extensions_1_1_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_livedata_1_1_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_livedata_core_1_1_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_runtime_1_1_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_viewmodel_1_1_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_animated_vector_drawable_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_appcompat_v7_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_asynclayoutinflater_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_cardview_v7_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_collections_28_0_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_constraint_constraint_layout_1_1_3_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_constraint_constraint_layout_solver_1_1_3_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_coordinatorlayout_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_cursoradapter_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_customview_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_design_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_documentfile_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_drawerlayout_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_interpolator_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_loader_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_localbroadcastmanager_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_print_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_recyclerview_v7_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_slidingpanelayout_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_annotations_28_0_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_compat_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_core_ui_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_core_utils_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_fragment_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_media_compat_26_1_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_v4_26_1_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_vector_drawable_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_swiperefreshlayout_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_core_3_0_2_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_idling_resource_3_0_2_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_monitor_1_0_2_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_runner_1_0_2_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_transition_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_versionedparcelable_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_viewpager_28_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_bumptech_glide_annotations_4_9_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_bumptech_glide_disklrucache_4_9_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_bumptech_glide_gifdecoder_4_9_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_bumptech_glide_glide_4_9_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_ads_identifier_16_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_base_16_0_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_basement_16_2_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_flags_16_0_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_gcm_16_1_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_iid_16_0_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_measurement_16_4_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_measurement_api_16_4_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_measurement_base_16_4_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_measurement_impl_16_4_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_measurement_sdk_16_4_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_measurement_sdk_api_16_4_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_stats_16_0_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_tasks_16_0_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_auto_value_auto_value_annotations_1_6_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_2_0_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_analytics_16_4_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_auth_16_2_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_auth_interop_16_0_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_common_16_1_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_core_16_0_8_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_database_16_1_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_database_collection_16_0_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_iid_17_0_3_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_iid_interop_16_0_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_measurement_connector_17_0_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_storage_16_1_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_javawriter_2_1_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_inject_javax_inject_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__net_sf_kxml_kxml2_2_3_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_integration_1_3_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_3_jar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/dictionaries/aghas.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/google-services.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/release/app-release.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/release/output.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ic_launcher-web.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bowfletchers/chatberry/Activities/About.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bowfletchers/chatberry/Activities/AddMemberToGroupChat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bowfletchers/chatberry/Activities/AvailableUsers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bowfletchers/chatberry/Activities/ChatHistoryList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bowfletchers/chatberry/Activities/EditGroupChat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bowfletchers/chatberry/Activities/FriendList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bowfletchers/chatberry/Activities/FriendProfile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bowfletchers/chatberry/Activities/FriendRequests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bowfletchers/chatberry/Activities/FriendStories.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bowfletchers/chatberry/Activities/GroupHistoryList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bowfletchers/chatberry/Activities/GroupMessageViewer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bowfletchers/chatberry/Activities/LoginAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bowfletchers/chatberry/Activities/MessageViewer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bowfletchers/chatberry/Activities/NewGroupChat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bowfletchers/chatberry/Activities/RegisterAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bowfletchers/chatberry/Activities/UserProfile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bowfletchers/chatberry/Activities/UserStory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bowfletchers/chatberry/Activities/WelcomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bowfletchers/chatberry/Adapters/AvailableUsersInfoAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bowfletchers/chatberry/Adapters/ChatHistoryInfoAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bowfletchers/chatberry/Adapters/FriendListAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bowfletchers/chatberry/Adapters/FriendRequestAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bowfletchers/chatberry/Adapters/FriendStoriesAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bowfletchers/chatberry/Adapters/GCMemberSelectAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bowfletchers/chatberry/Adapters/GCMemberSettingsAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bowfletchers/chatberry/Adapters/GroupChatsListAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bowfletchers/chatberry/Adapters/MessagesAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bowfletchers/chatberry/ClassLibrary/Chat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bowfletchers/chatberry/ClassLibrary/FirebaseInstances.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bowfletchers/chatberry/ClassLibrary/GCMember.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bowfletchers/chatberry/ClassLibrary/GroupChat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bowfletchers/chatberry/ClassLibrary/Invitations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bowfletchers/chatberry/ClassLibrary/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bowfletchers/chatberry/ClassLibrary/MemberFriendList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bowfletchers/chatberry/ClassLibrary/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bowfletchers/chatberry/ClassLibrary/Story.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bowfletchers/chatberry/ClassLibrary/UserStory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bowfletchers/chatberry/DataSource/FirebaseQueryDataOnce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bowfletchers/chatberry/DataSource/FirebaseQueryLiveData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bowfletchers/chatberry/DataSource/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bowfletchers/chatberry/Helper/GetSentInvitations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bowfletchers/chatberry/Helper/SendInvitations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bowfletchers/chatberry/Repository/ChatBerryLiveData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bowfletchers/chatberry/Repository/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bowfletchers/chatberry/Testing/MockData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bowfletchers/chatberry/ViewModel/AvailableUsersModel/AddFriends.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bowfletchers/chatberry/ViewModel/AvailableUsersModel/GetAvailableUsersReference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bowfletchers/chatberry/ViewModel/Chat/ChatViewModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bowfletchers/chatberry/ViewModel/Chat/GetChatRoom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bowfletchers/chatberry/ViewModel/Chat/LiveChatRoom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bowfletchers/chatberry/ViewModel/Chat/NewChatRoom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bowfletchers/chatberry/ViewModel/Chat/SendMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bowfletchers/chatberry/ViewModel/ChatBerryViewModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bowfletchers/chatberry/ViewModel/ChatHistoryListModel/ChatHistoryReference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bowfletchers/chatberry/ViewModel/FriendList/FriendListViewModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bowfletchers/chatberry/ViewModel/GChat/GetMembers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bowfletchers/chatberry/ViewModel/GChat/NewGChatRoom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bowfletchers/chatberry/ViewModel/GroupChatsModel/GetGroupChatsReference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bowfletchers/chatberry/ViewModel/UserData/UserInfoViewModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bowfletchers/chatberry/ViewModel/UserData/UserStoryViewModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bowfletchers/chatberry/ViewModel/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable-anydpi-v24/ic_android.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable-anydpi/ic_check.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable-anydpi/ic_home_page.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable-anydpi/ic_person.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable-anydpi/ic_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable-anydpi/ic_take_photo.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable-anydpi/ic_user_friends.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable-anydpi/ic_user_profile.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable-hdpi/ic_android.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable-hdpi/ic_check.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable-hdpi/ic_home_page.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable-hdpi/ic_person.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable-hdpi/ic_settings.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable-hdpi/ic_take_photo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable-hdpi/ic_user_friends.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable-hdpi/ic_user_profile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable-mdpi/ic_android.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable-mdpi/ic_check.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable-mdpi/ic_home_page.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable-mdpi/ic_person.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable-mdpi/ic_settings.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable-mdpi/ic_take_photo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable-mdpi/ic_user_friends.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable-mdpi/ic_user_profile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable-xhdpi/ic_android.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable-xhdpi/ic_check.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable-xhdpi/ic_home_page.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable-xhdpi/ic_person.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable-xhdpi/ic_settings.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable-xhdpi/ic_take_photo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable-xhdpi/ic_user_friends.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable-xhdpi/ic_user_profile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable-xxhdpi/ic_android.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable-xxhdpi/ic_check.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable-xxhdpi/ic_home_page.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable-xxhdpi/ic_person.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable-xxhdpi/ic_settings.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable-xxhdpi/ic_take_photo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable-xxhdpi/ic_user_friends.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable-xxhdpi/ic_user_profile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/logo_no_text.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout-v26/activity_group_message_viewer.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/activity_about.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/activity_add_member_to_group_chat.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/activity_available_users.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/activity_chat_history_list.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/activity_create_user_story.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/activity_edit_group_chat.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/activity_friend_list.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/activity_friend_profile.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/activity_friend_requests.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/activity_friend_stories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/activity_group_history_list.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/activity_login_account.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/activity_message_viewer.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/activity_new_group_chat.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/available_users_item_layout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/chat_history_layout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/content_activity_available_users.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/content_activity_chat_history_list.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/content_activity_create_user_story.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/content_activity_friend_profile.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/content_activity_friend_request.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/content_activity_friend_stories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/content_activity_group_history_list.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/content_activity_message_viewer.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/content_activity_user_profile.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/content_new_group_chat.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/friend_request_layout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/friend_stories_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/gc_edit_member_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/gc_member_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/group_chats_list_layout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/message_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/menu/gc_menu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/menu/home_only_menu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/menu/main_menu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/mipmap-hdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/mipmap-mdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/values/ic_launcher_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bowfletchers/chatberry/Friend_List.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bowfletchers/chatberry/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bowfletchers/chatberry/Activities/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bowfletchers/chatberry/Register_account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bowfletchers/chatberry/User_profile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bowfletchers/chatberry/WelcomePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/activity_friend_list_ui.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/content_activity_friend_list.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/activity_register_account.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/activity_register_account.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/activity_user_profile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/activity_user_profile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/activity_welcome_page.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/activity_welcome_page.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/content_welcome_page.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/content_welcome_page.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/friend_list_item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/friend_list_item.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../build.gradle" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -108,10 +202,40 @@
           <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="gradle" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Groovy" value="1" />
+        </counts>
+      </usages-collector>
     </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="320">
+              <caret line="33" column="39" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/build.gradle" />
+      </list>
+    </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
@@ -132,12 +256,11 @@
           <expand>
             <path>
               <item name="ChatBerry" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="app" type="e9137016:NonAndroidModuleNode" />
             </path>
             <path>
               <item name="ChatBerry" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
             </path>
           </expand>
           <select />
@@ -239,6 +362,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="948" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" visible="true" weight="0.32967034" />
       <window_info id="Structure" side_tool="true" />
@@ -266,5 +390,14 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="33" column="39" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
